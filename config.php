@@ -4,5 +4,5 @@
 		'user' =>'xxxxxx',
 		'password'=> 'xxxxx',
 		'database' => 'xxxxxxx'
-];
+	];
 ?>
